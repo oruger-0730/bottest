@@ -1,0 +1,26 @@
+{
+  "1275233053601435703": {
+    "farmLevel": 1,
+    "plantedSeeds": 0,
+    "nextHarvestTime": 0,
+    "plantedKind": "米",
+    "lastRicePriceChange": 0,
+    "lastCarrotPriceChange": 0
+  },
+  "1314192040770404433": {
+    "farmLevel": 1,
+    "plantedSeeds": 0,
+    "nextHarvestTime": 0,
+    "plantedKind": "米",
+    "lastRicePriceChange": 0,
+    "lastCarrotPriceChange": 0
+  },
+  "1179720178758586411": {
+    "farmLevel": 1,
+    "plantedSeeds": 0,
+    "nextHarvestTime": 0,
+    "lastRicePriceChange": 0,
+    "lastCarrotPriceChange": 0,
+    "plantedKind": "米"
+  }
+}
